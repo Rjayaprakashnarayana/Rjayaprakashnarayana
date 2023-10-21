@@ -20,7 +20,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I completed my B.tech in Computer Science and Engineering in 2022.
-- 🌱 I’m  in LTI MINDTREE Training (Dt:- 19-06-2023).
+- 🌱 Working in LTI Mindtree (Dt:- 3-10-2023).
 - 💬 Reach me out if you want to collaborate.
 - 📫 Email me at [jayaprakashrayani@gmail.com](mailto:jayaprakashrayani@gmail.com).
 
