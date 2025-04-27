@@ -1,49 +1,68 @@
 <h2 title="hehehe"> Hey 👋, I'm Rayani Jaya Prakash Narayana!</h2>
 
 <a href="https://www.linkedin.com/in/jaya-prakash-narayana-rayani-43361517b/">
-  <img align="left" alt="JP's LinkedIn"  src="https://img.icons8.com/color/48/000000/linkedin.png" />
+  <img align="left" alt="JP's LinkedIn" width="26px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/jaya_prakash_narayana_jp/">
-  <img align="left" alt="JP's Instagram"  src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" alt="JP's Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 
+<br/>
+<br/>
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 
-<br />
-<br />
+## 🙋‍♂️ About Me
+- 🎓 B.Tech in Computer Science and Engineering (2022).
+- 💼 Data Engineer at **LTIMindtree** | GenAI COE | Since Oct 2023.
+- 🔬 Specialized in **LLM Fine-tuning** (BioGPT) and **Anomaly Detection** in banking transactional datasets.
+- ☁️ Hands-on with **AWS**, **GCP**, **Ab Initio**, **Streamlit**, **LangChain**, and **Autoencoders**.
+- 🏆 Hackathon Winner 🏅 - Developed SDLC Automation Model with IBM Watsonx AI.
+- 💬 Always open for collaboration in Data Engineering, GenAI, and AI/ML projects.
+- 📫 Reach me at: [jayaprakashrayani@gmail.com](mailto:jayaprakashrayani@gmail.com).
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width=400 />
- 
+---
 
-  
+## 🛠️ Skills & Technologies
 
-**About Me!**
+| **Programming Languages** | **Frameworks/Libraries** | **Cloud & Tools** | **Databases** |
+|:---------------------------|:-------------------------|:-----------------|:-------------|
+| C, C++, Java, Python        | Streamlit, LangChain, TensorFlow, PyTorch | AWS (EC2, S3, Athena, Glue, Lambda, QuickSight), GCP (Vertex AI), Git, Anaconda, Kore.ai | MySQL |
 
-- 👨🏽‍💻 I completed my B.tech in Computer Science and Engineering in 2022.
-- 🌱 Working in LTI Mindtree (Dt:- 3-10-2023).
-- 💬 Reach me out if you want to collaborate.
-- 📫 Email me at [jayaprakashrayani@gmail.com](mailto:jayaprakashrayani@gmail.com).
+- **ETL Tools**: Ab Initio
+- **Data Engineering**: Spark, Kafka, Airflow, Hadoop
+- **Model Explanation**: SHAP (Shapley Additive Explanations)
 
+---
 
+## 📚 Key Projects
 
-**Languages and Tools:**  
-* Eclipse
-* Git
-* Visual Studio
-* Java
-* Python
-* CPP
-* C
-<br>
+- 🛫 **Travel Booking Platform** using AWS services + Wordpress.
+- 🔎 **Data Quality Platform**: Anomaly Detection on Banking Data using **Autoencoders** + **EDA (ydata-profiling)**.
+- 🩺 **BioGPT Fine-tuning**: Adapted Microsoft’s BioGPT model with 500+ real-world medical FAQs.
+- 🧑‍💻 **GenAI Angular UI Code Generator**: Built Python solution to transform UI images/videos into Angular code.
 
-**Statistics:**
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=Rjayaprakashnarayana&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="JP's Github Stats">
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rjayaprakashnarayana&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="JP's Github Stats" />
-<br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjayaprakashnarayana&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Rayani Jaya Prakash Narayana Stats" />
-<br />
-<br />
-![](https://komarev.com/ghpvc/?username=Rjayaprakashnarayana&color=fad000)
+---
+
+## 📈 GitHub Stats
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rjayaprakashnarayana&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="JP's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rjayaprakashnarayana&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="JP's GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rjayaprakashnarayana&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="JP's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rjayaprakashnarayana&color=fad000" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 Let's Connect!
+If you’re working on something interesting or want to brainstorm ideas on Data Engineering, Fine-tuning LLMs, or building GenAI Solutions, **let's collaborate!** 🤝
